@@ -1,4 +1,8 @@
 # ppm
 PHP Package Manager
 
- ![Pantalla](/screenweb.png?raw=true "Pantalla")
+Herramienta para generar los paquetes 
+
+ ![Pantalla 1](/screenweb.png?raw=true "Pantalla 1")
+ 
+ ![Pantalla 2](/screenweb2.png?raw=true "Pantalla 2")
